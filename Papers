@@ -1,0 +1,11 @@
+### Academic Papers
+## Crypto and Blockchain
+# Proof of Work
+
+An Equilibrium Model of the Market for Bitcoin Modeling
+  This paper seeks to characterize bitcoin mining as a general equilibrium model: 
+  Key features:
+  Technology: Mining is characterized as inherently random process of "guessing and checking" hashes until a 
+  certain threshhold is met. Threshhold is determined dynamically by a difficulty parameter. Difficulty 
+  parameter is set so that blocks are generated on average every 10 minutes to mimic Bitcoin's difficulty 
+  algorithm.
